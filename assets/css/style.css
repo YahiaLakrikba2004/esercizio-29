@@ -1,0 +1,143 @@
+/* IMPOSTAZIONI GENERALI */
+.logo {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+    
+}
+
+header article {
+  font-size: 25px;
+}
+
+body {
+    text-align: center;
+    background-image: url(/assets/img/sfondo.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    font: inherit;
+}
+.box1 {
+  width: 500px;
+  height: 150px;
+  border: 3px solid black;
+box-shadow: inset 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  position: relative;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+}
+.box2 {
+  width: 500px;
+  height: 1000px;
+  border: 1px solid black;
+  box-shadow: inset 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  display:flex;
+  position: relative;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+  background-color: beige;
+ 
+}
+.box3 {  width: 500px;
+  height: 250px;
+  border: 3px solid black;
+box-shadow: inset 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+  background-color: beige;
+
+} 
+.box4 {
+  width: 500px;
+  height: 250px;
+  border: 3px solid black;
+box-shadow: inset 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+  background-color: beige;
+}
+.box5 {
+  width: 500px;
+  height: 250px;
+  border: 3px solid black;
+box-shadow: inset 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+  background-color: beige;
+}
+/* HEADER */
+
+/* MAIN */
+iframe {
+  border-radius: 15%;
+  box-shadow: 25px 10px 72px 37px rgba(0,0,0,0.1);
+  
+
+}
+h1 {
+  font-size: xx-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+caption{
+  background-color: blue;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+th {
+  border: 1px solid #ffffff;
+  padding: 8px;
+  text-align: center;
+  background-color: #f2f2f2;
+  
+}
+td {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: center;
+}
+
+
+
+
+
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
